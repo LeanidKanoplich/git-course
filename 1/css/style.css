@@ -1,0 +1,27 @@
+.blocks {
+    width: 300px;
+}
+
+header, nav, section, article, aside, footer {
+    border: 1px solid black;
+
+    text-align: center;
+    margin: 5px;
+
+    height: 50px;
+}
+
+.blocks-2 {
+    display: flex;
+}
+
+.section-article {
+    width: 49%;
+}
+
+aside {
+    width: 47%;
+    height: 107px;
+    position: relative;
+    float: right;
+}

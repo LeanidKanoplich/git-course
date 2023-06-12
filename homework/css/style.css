@@ -1,0 +1,26 @@
+<table>
+        <thead>
+            <tr>
+                <th>Name of browser</th>
+                <th>Version</th>
+                <th>OS</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Google Chrome</td>
+                <td>v10.1</td>
+                <td>Windows</td>
+            </tr>
+            <tr>
+                <td>Microsoft edge</td>
+                <td>v9.3</td>
+                <td>Mac</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td>Browser specifications</td>
+            </tr>
+        </tfoot>
+    </table>
